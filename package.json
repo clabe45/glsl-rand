@@ -1,0 +1,31 @@
+{
+  "name": "glsl-rand",
+  "version": "0.1.0",
+  "description": "Random noise for glslify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clabe45/glsl-rand.git"
+  },
+  "keywords": [
+    "2d",
+    "3d",
+    "4d",
+    "glsl",
+    "glslify",
+    "prng",
+    "random",
+    "random number generator",
+    "shader",
+    "webgl"
+  ],
+  "author": "Caleb Sacks",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/clabe45/glsl-rand/issues"
+  },
+  "homepage": "https://github.com/clabe45/glsl-rand#readme"
+}
